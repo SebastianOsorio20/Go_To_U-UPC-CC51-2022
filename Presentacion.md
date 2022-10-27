@@ -10,7 +10,8 @@
   
 
 <h3>  ● Juan Sebastian Osorio Quiroz
-  
+
+[![sebas.png](https://i.postimg.cc/L4W0vVs3/sebas.png)](https://postimg.cc/G9kQmGG4)
   
 <h3>  ● Diego Sebastian Lucana Chivigorri 
 
