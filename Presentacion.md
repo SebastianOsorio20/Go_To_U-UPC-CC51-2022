@@ -13,13 +13,16 @@
   
   
 <h3>  ● Diego Sebastian Lucana Chivigorri 
-  
+
+[![diego.png](https://i.postimg.cc/28Fh3zgL/diego.png)](https://postimg.cc/HVnVhCYT)
   
 <h3>  ● Daniel Velarde Cupe
   
+[![daniel.png](https://i.postimg.cc/9X9G5Ppp/daniel.png)](https://postimg.cc/qgkt23Wh)
   
 <h3>  ● Andrea Fabiana García Napurí
-  
+
+ [![andrea.png](https://i.postimg.cc/Wz0rGj3K/andrea.png)](https://postimg.cc/XB7pWR9c)
 
 <h2> Segmento Objetivo
 <h3>Nuestra Startup cuenta con 2 segmentos objetivos, los cuales hemos seleccionado teniendo en cuenta los 2 tipos de segmentación de mercado: demográfica (por rango de edad) y psicográfica (personalidad, sentimientos e intereses).
