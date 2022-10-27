@@ -35,4 +35,4 @@
   
 <h3>Psicólogos: Son personas entre 25 y 40 años especializadas en orientación vocacional que buscan ayudar a aquellas personas que se encuentran indecisas sobre la elección de carrera.
   
-[![psicologo.jpg](https://i.postimg.cc/y8nVD5VT/psicologo.jpg)](https://postimg.cc/sMQF8TGB)
+[![psi.jpg](https://i.postimg.cc/Xvm6F6t9/psi.jpg)](https://postimg.cc/Ffy658rK)
