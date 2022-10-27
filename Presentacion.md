@@ -7,23 +7,24 @@
 <h2> Integrantes
  
 <h3>  ●  Marlon Omar Llaguento de la Cruz
-  
+ 
+ [![marlon.png](https://i.postimg.cc/c1D6zvqm/marlon.png)](https://postimg.cc/Wtk2Fb1F)
 
 <h3>  ● Juan Sebastian Osorio Quiroz
 
-[![sebas.png](https://i.postimg.cc/L4W0vVs3/sebas.png)](https://postimg.cc/G9kQmGG4)
+[![sebas.png](https://i.postimg.cc/fRdLk5V2/sebas.png)](https://postimg.cc/CRFYQGHk)
   
 <h3>  ● Diego Sebastian Lucana Chivigorri 
 
-[![diego.png](https://i.postimg.cc/28Fh3zgL/diego.png)](https://postimg.cc/HVnVhCYT)
+[![diego.png](https://i.postimg.cc/7hQ6JW1c/diego.png)](https://postimg.cc/p5zxgk6Y)
   
 <h3>  ● Daniel Velarde Cupe
   
-[![daniel.png](https://i.postimg.cc/9X9G5Ppp/daniel.png)](https://postimg.cc/qgkt23Wh)
+[![daniel.png](https://i.postimg.cc/J0h0nLXZ/daniel.png)](https://postimg.cc/phgRG3qL)
   
 <h3>  ● Andrea Fabiana García Napurí
 
- [![andrea.png](https://i.postimg.cc/Wz0rGj3K/andrea.png)](https://postimg.cc/XB7pWR9c)
+ [![andrea.png](https://i.postimg.cc/7Zj2Wf2c/andrea.png)](https://postimg.cc/w1cMtxFc)
 
 <h2> Segmento Objetivo
 <h3>Nuestra Startup cuenta con 2 segmentos objetivos, los cuales hemos seleccionado teniendo en cuenta los 2 tipos de segmentación de mercado: demográfica (por rango de edad) y psicográfica (personalidad, sentimientos e intereses).
