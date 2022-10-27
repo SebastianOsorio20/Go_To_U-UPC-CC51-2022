@@ -31,8 +31,8 @@
 
 <h3>Estudiantes preuniversitarios: Son personas entre 15 y 18 años que se preparan para empezar sus estudios de educación superior en institutos o universidades como son los estudiantes de 4to y 5to de secundaria.
   
-[![preuniversitario.jpg](https://i.postimg.cc/dQjzBCyW/preuniversitario.jpg)](https://postimg.cc/NLLJG5bT)
+[![preuniversitario.jpg](https://i.postimg.cc/5NB9VyTT/preuniversitario.jpg)](https://postimg.cc/xcdVGf03)
   
 <h3>Psicólogos: Son personas entre 25 y 40 años especializadas en orientación vocacional que buscan ayudar a aquellas personas que se encuentran indecisas sobre la elección de carrera.
   
-[![Psicologo.jpg](https://i.postimg.cc/wTWnKdFL/Psicologo.jpg)](https://postimg.cc/CzqcDX3x)
+[![psicologo.jpg](https://i.postimg.cc/y8nVD5VT/psicologo.jpg)](https://postimg.cc/sMQF8TGB)
