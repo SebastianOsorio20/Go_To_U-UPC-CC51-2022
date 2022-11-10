@@ -1,0 +1,196 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+hr{
+    border: 2px solid rgba(191, 182, 182, 0.605);
+}
+
+body{
+    background-color: black;
+    color:#ffffff;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+a{
+    color:#ffffff;
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+.conteiner-nav-menu{
+    width: 90%;
+    margin: auto;
+    height: 10%;
+}
+
+.main-nav{
+    font-size: 17px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    padding: 20px 0;
+}
+
+.logGoToU{
+    width: 50px;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+/*Navegación derecha*/
+
+.main-nav ul{
+    display: flex;
+}
+
+.main-nav ul li{
+    margin: 10px;
+    
+}
+
+.main-nav ul li a{
+    margin: 10px;
+    
+}
+
+.main-nav ul li a:hover{
+    border-bottom: 2px solid #E62A58;
+    color: #E62A58;
+}
+
+.main-nav ul.menu-nav{
+    padding-right: 20px;
+}
+
+/*Imagen principal*/
+.main-image{
+    width: 100%;
+    height: 690px;
+    background: url(/GOTOUMAINPAGE/images/imagenPrincipal.jpg) no-repeat center center/cover;
+    padding-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-image h1{
+    font-size: 50px;
+    margin: 20px;
+}
+
+.main-image h2{
+    font-size: 40px;
+    margin: 20px;
+    font-style: oblique;
+}
+
+.main-image h3{
+    font-size: 30px;
+    margin: 20px;
+    
+}
+
+/*Contenedor de carreras*/
+
+.carreras{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.text-carreras{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #67C4CE;
+}
+
+.carreras h2{
+    margin: 20px;
+    text-align: center;
+}
+.carreras h3{
+    margin-bottom: 20px; 
+    text-align: center;
+}
+
+/*Imagenes de carreras*/
+
+.image-carreras{
+    width: 100%;
+    height: 500px;
+    align-items: center;
+    /*justify-content: space-between; 
+    display: flex;*/
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background-color: #E57373;
+    margin: auto;
+    padding: 50px;
+}
+
+.image-carreras div{ 
+    width: 400px;
+    height: 300px; 
+    
+}
+
+.image-carreras div img{
+    width: 400px;
+    height: 300px;
+    position: absolute;
+}
+
+.image-carreras div.text{
+    position: absolute;
+    flex-direction: column;
+    padding:50px;
+}
+
+
+.image-carreras div a:hover{
+    border-bottom: 2px solid #E62A58;
+    color: #E62A58;
+}
+
+/*Test y cursos introductorios*/
+
+.opciones-test-cursos{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    
+    padding: auto;
+    width: 100%;
+    border: 2px solid #67C4CE;
+}
+
+.opciones-test-cursos div{
+    width: 400px;
+    height: 300px;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.opciones-test-cursos div img{
+    width: 100%;
+    height: 100%; 
+    border-radius: 10%;
+}
