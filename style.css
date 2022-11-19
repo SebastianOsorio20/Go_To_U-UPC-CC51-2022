@@ -194,3 +194,84 @@ ul{
     height: 100%; 
     border-radius: 10%;
 }
+/* Comenzamos con el about*/
+.Gotou{
+    width: 100%;
+    height: 380px;
+    background-color: #E57373;
+    padding-bottom: 50px;
+    
+    
+}
+.parrafo1{
+    position: absolute;
+    left: 600px;
+    top: 150px;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+}
+#p1{
+    font-size: 18px;
+}
+
+.Logo_about{
+    position: absolute;
+    width: 182px;
+    height: 182px;
+    left: 350px;
+    top: 150px;
+    border-radius: 10px;
+}
+
+.Participantes h1{
+    background-color: white;
+    color: black;
+    position: absolute;
+    width: 500px;
+    height: 40px;
+    left: 513.5px;
+    top: 420px;
+    border-radius:20px;
+    text-align: center;
+    align-items: center;
+}
+
+/*  */
+.Integrantes{
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(250px,1fr));
+    justify-items: center;
+    padding: 50px;
+   
+}
+
+.creador{ 
+        width: 250px;
+        height: 350px;
+        top: 200px;
+        padding: 0px 5px;
+        background-color: #E57373;
+        text-align: center;
+        border-radius: 5%;
+}
+
+.creador img{
+    width: 230px;
+    height: 340px;
+    margin-top: 5px;
+    border-radius: 5%;
+}
+.Redes_Sociales{
+    list-style: none;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+.Boton_RS{
+    float: left;
+    padding: 2px 5px;
+    border: 1px;
+}
