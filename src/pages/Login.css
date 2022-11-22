@@ -1,0 +1,132 @@
+
+
+.conteiner-nav-menu{
+    width: 100%;
+    margin: auto;
+    height: 70px;
+    background-color: #e88685;
+}
+
+.main-var{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 60px;
+    padding: 1px 0;
+}
+
+.logGoToU{
+    width: 70px;
+    /* border-radius: none; */
+    margin-top: 0px;    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.conteiner-nav-menu .main-var a{
+    display: block;
+    align-items: center;
+    margin-top: auto;    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a{
+    text-decoration: none;
+    font-weight: 500;
+    display: inline-block;
+    align-items: center;
+
+}
+
+.gradient-text{
+    background: white;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.form-content p{
+    text-align: center;
+}
+
+.form-main{
+    min-height: 100vh;
+    padding: 60px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.form-content{
+    width: 100%;
+    max-width: 450px;
+    position: relative;
+    z-index: 1;
+}
+
+
+.form-content .box{
+
+    background-color: #e88685;
+    border: 1px solid black;
+    padding: 40px 50px;
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+}
+
+.form-content h2{
+    font-size: 42px;
+    text-align: center;
+    line-height: 1.2;
+    color: white;
+    font-weight: 500;
+}
+
+.form-content form{
+    margin: 25px 0 20px;
+}
+
+.form-content .input-box{
+    margin-bottom: 15px;
+}
+
+
+
+.form-content .input-control{
+    display: block;
+    height: 45px;
+    width: 100%; 
+    border: none;
+    border-radius: 15px;
+    color:black;
+    font-weight: inherit;
+    font-family: inherit;
+    font-size: 16px;
+}
+
+.form-content .input-control:focus{
+    outline: none;
+}
+
+.form-content .input-link{
+    margin-top: 15px;
+    text-align: left;
+}
+
+.form-content .btn{
+    height: 45px;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: capitalize;
+    font-family: inherit;
+    cursor:pointer;
+    border-radius: 15px;
+    user-select: none;
+    border: none;
+    color:black;
+    position: relative;
+    overflow: hidden;
+}
